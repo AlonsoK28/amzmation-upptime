@@ -22,40 +22,40 @@ sites:
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeAndKitchen
 
   - name: Offers by department beauty
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBeauty
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBeauty
 
   - name: Offers by department fashion
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFashion
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFashion
 
   - name: Offers by department furnitures
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFurnitures
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFurnitures
 
   - name: Offers by department outdoor sports
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentOutdoorSports
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentOutdoorSports
 
   - name: Offers by department tv and video
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentTvAndVideo
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentTvAndVideo
 
   - name: Offers by department books
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBooks
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBooks
 
   - name: Offers by department cellphoners and accessories
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCellphonesAndAccessories
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCellphonesAndAccessories
 
   - name: Offers by department personal care
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentPersonalCare
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentPersonalCare
 
   - name: Offers by department home improvements
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeImprovements
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeImprovements
 
   - name: Offers by department videogames
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentVideogames
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentVideogames
 
   - name: Offers by department cameras and photography
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCamerasAndPhotography
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCamerasAndPhotography
 
   - name: Offers by department bags and suitcases
-    ur: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBagsAndSuitcases
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBagsAndSuitcases
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
