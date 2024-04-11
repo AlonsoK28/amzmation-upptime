@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCellphonesAndAccessories
 status: up
 code: 200
-responseTime: 122
-lastUpdated: 2024-04-10T23:08:38.036Z
+responseTime: 132
+lastUpdated: 2024-04-11T23:08:50.719Z
 startTime: 2024-04-06T00:26:28.121Z
 generator: Upptime <https://github.com/upptime/upptime>
