@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBooks
 status: up
 code: 200
-responseTime: 67
-lastUpdated: 2024-04-27T23:07:50.811Z
+responseTime: 93
+lastUpdated: 2024-04-28T23:07:05.989Z
 startTime: 2024-04-06T00:26:27.233Z
 generator: Upptime <https://github.com/upptime/upptime>
