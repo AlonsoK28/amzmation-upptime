@@ -6,56 +6,53 @@ sites:
   - name: Lastest offers
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffers
     
-  - name: Offers by department computers and accessories
+  - name: 1. Offers by department computers and accessories
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentComputersAndAccessories
     
-  - name: Offers by department electronic accessories
+  - name: 2. Offers by department electronic accessories
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentElectronicAccessories
     
-  - name: Offers by department games and toys
+  - name: 3. Offers by department games and toys
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentGamesAndToys
 
-  - name: Offers by department beauty
+  - name: 4. Offers by department beauty
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBeauty
 
-  - name: Offers by department home and kitchen
-    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeAndKitchen
-
-  - name: Offers by department beauty
-    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBeauty
-
-  - name: Offers by department fashion
+  - name: 5.  Offers by department fashion
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFashion
 
-  - name: Offers by department furnitures
-    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFurnitures
+  - name: 6. Offers by department home and kitchen
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeAndKitchen
 
-  - name: Offers by department outdoor sports
+  - name: 7. Offers by department outdoor sports
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentOutdoorSports
 
-  - name: Offers by department tv and video
+  - name: 8. Offers by department tv and video
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentTvAndVideo
 
-  - name: Offers by department books
+  - name: 9. Offers by department books
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBooks
 
-  - name: Offers by department cellphoners and accessories
+  - name: 10. Offers by department cellphoners and accessories
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCellphonesAndAccessories
 
-  - name: Offers by department personal care
+  - name: 11. Offers by department personal care
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentPersonalCare
 
-  - name: Offers by department home improvements
+  - name: 12. Offers by department home improvements
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeImprovements
 
-  - name: Offers by department videogames
+  - name: 13. Offers by department videogames
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentVideogames
 
-  - name: Offers by department cameras and photography
+  - name: 14. Offers by department cameras and photography
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCamerasAndPhotography
 
-  - name: Offers by department bags and suitcases
+  - name: 15. Offers by department bags and suitcases
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBagsAndSuitcases
+    
+  - name: 16. Offers by department furnitures
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFurnitures
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
