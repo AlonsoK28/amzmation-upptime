@@ -54,6 +54,15 @@ sites:
   - name: 16. Offers by department furnitures
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFurnitures
 
+  - name: 17. Offers by department baby
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBaby
+
+  - name: 18. Offers by department pets
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentPets
+
+  - name: 19. Offers by department office
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentOffice
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
