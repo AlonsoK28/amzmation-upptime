@@ -8,6 +8,7 @@ sites:
     
   - name: 1. Offers by department computers and accessories
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentComputersAndAccessories
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Computers_white._CB468586682_.png
     
   - name: 2. Offers by department electronic accessories
     url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentElectronicAccessories
