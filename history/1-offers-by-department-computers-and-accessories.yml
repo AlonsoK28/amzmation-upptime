@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentComputersAndAccessories
 status: up
 code: 200
-responseTime: 106
-lastUpdated: 2024-07-09T23:08:56.525Z
+responseTime: 131
+lastUpdated: 2024-07-10T23:08:17.078Z
 startTime: 2024-05-01T21:15:42.114Z
 generator: Upptime <https://github.com/upptime/upptime>
