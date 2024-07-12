@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBagsAndSuitcases
 status: up
 code: 200
-responseTime: 111
-lastUpdated: 2024-07-11T23:09:55.163Z
+responseTime: 85
+lastUpdated: 2024-07-12T23:08:03.759Z
 startTime: 2024-05-01T21:15:51.213Z
 generator: Upptime <https://github.com/upptime/upptime>
