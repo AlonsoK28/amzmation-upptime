@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFurnitures
 status: up
 code: 200
-responseTime: 103
-lastUpdated: 2024-07-28T23:08:53.626Z
+responseTime: 156
+lastUpdated: 2024-07-29T23:08:15.550Z
 startTime: 2024-05-01T21:15:51.837Z
 generator: Upptime <https://github.com/upptime/upptime>
