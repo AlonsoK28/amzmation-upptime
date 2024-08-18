@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentGamesAndToys
 status: up
 code: 200
-responseTime: 83
-lastUpdated: 2024-08-17T23:07:52.556Z
+responseTime: 239
+lastUpdated: 2024-08-18T23:08:45.904Z
 startTime: 2024-05-01T21:15:43.461Z
 generator: Upptime <https://github.com/upptime/upptime>
