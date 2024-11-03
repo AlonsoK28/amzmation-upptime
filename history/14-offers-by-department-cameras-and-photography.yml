@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCamerasAndPhotography
 status: up
 code: 200
-responseTime: 129
-lastUpdated: 2024-11-02T23:10:57.704Z
+responseTime: 123
+lastUpdated: 2024-11-03T23:10:50.999Z
 startTime: 2024-05-01T21:15:50.492Z
 generator: Upptime <https://github.com/upptime/upptime>
