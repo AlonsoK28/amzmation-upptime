@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentVideogames
 status: up
 code: 200
-responseTime: 87
-lastUpdated: 2025-01-03T23:09:11.201Z
+responseTime: 115
+lastUpdated: 2025-01-04T23:08:32.007Z
 startTime: 2024-05-01T21:15:49.903Z
 generator: Upptime <https://github.com/upptime/upptime>
