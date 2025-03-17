@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentPets
 status: up
 code: 200
-responseTime: 125
-lastUpdated: 2025-03-16T23:08:55.755Z
+responseTime: 115
+lastUpdated: 2025-03-17T23:09:59.512Z
 startTime: 2024-05-01T21:17:16.903Z
 generator: Upptime <https://github.com/upptime/upptime>
