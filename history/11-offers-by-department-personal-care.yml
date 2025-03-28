@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentPersonalCare
 status: up
 code: 200
-responseTime: 93
-lastUpdated: 2025-03-27T23:10:29.028Z
+responseTime: 113
+lastUpdated: 2025-03-28T23:09:43.540Z
 startTime: 2024-05-01T21:15:48.714Z
 generator: Upptime <https://github.com/upptime/upptime>
