@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentOutdoorSports
 status: up
 code: 200
-responseTime: 91
-lastUpdated: 2025-04-01T18:59:44.980Z
+responseTime: 83
+lastUpdated: 2025-04-01T23:09:56.403Z
 startTime: 2024-05-01T21:15:46.114Z
 generator: Upptime <https://github.com/upptime/upptime>
