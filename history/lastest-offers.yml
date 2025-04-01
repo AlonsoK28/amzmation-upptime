@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffers
-status: down
-code: 500
-responseTime: 159
-lastUpdated: 2025-04-01T16:38:09.932Z
+status: up
+code: 200
+responseTime: 2388
+lastUpdated: 2025-04-01T18:59:41.986Z
 startTime: 2023-11-13T05:09:28.641Z
 generator: Upptime <https://github.com/upptime/upptime>
