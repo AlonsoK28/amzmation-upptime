@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeImprovements
 status: up
 code: 200
-responseTime: 95
-lastUpdated: 2025-04-15T23:10:05.908Z
+responseTime: 119
+lastUpdated: 2025-04-16T23:09:45.285Z
 startTime: 2024-05-01T21:15:49.292Z
 generator: Upptime <https://github.com/upptime/upptime>
