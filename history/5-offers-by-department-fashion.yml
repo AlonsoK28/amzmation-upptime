@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFashion
 status: up
 code: 200
-responseTime: 79
-lastUpdated: 2025-05-02T23:10:08.168Z
+responseTime: 80
+lastUpdated: 2025-05-03T23:09:36.250Z
 startTime: 2024-05-01T21:15:44.625Z
 generator: Upptime <https://github.com/upptime/upptime>
