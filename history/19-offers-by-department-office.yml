@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentOffice
 status: up
 code: 200
-responseTime: 110
-lastUpdated: 2025-06-04T23:10:49.174Z
+responseTime: 129
+lastUpdated: 2025-06-05T23:12:06.378Z
 startTime: 2024-05-01T21:17:17.564Z
 generator: Upptime <https://github.com/upptime/upptime>
