@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBeauty
 status: up
 code: 200
-responseTime: 119
-lastUpdated: 2025-08-03T23:11:13.415Z
+responseTime: 143
+lastUpdated: 2025-08-04T23:11:46.231Z
 startTime: 2024-05-01T21:15:44.030Z
 generator: Upptime <https://github.com/upptime/upptime>
