@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBaby
 status: up
 code: 200
-responseTime: 110
-lastUpdated: 2025-08-17T23:10:30.756Z
+responseTime: 100
+lastUpdated: 2025-08-18T23:10:18.375Z
 startTime: 2024-05-01T21:17:16.413Z
 generator: Upptime <https://github.com/upptime/upptime>
