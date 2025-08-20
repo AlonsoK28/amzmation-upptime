@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentTvAndVideo
 status: up
 code: 200
-responseTime: 100
-lastUpdated: 2025-08-19T23:09:56.716Z
+responseTime: 131
+lastUpdated: 2025-08-20T23:09:57.583Z
 startTime: 2024-05-01T21:15:46.749Z
 generator: Upptime <https://github.com/upptime/upptime>
