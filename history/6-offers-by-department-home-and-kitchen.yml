@@ -1,7 +1,7 @@
 url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeAndKitchen
 status: up
 code: 200
-responseTime: 99
-lastUpdated: 2025-09-06T23:08:35.263Z
+responseTime: 124
+lastUpdated: 2025-09-07T23:08:39.153Z
 startTime: 2024-05-01T21:15:45.215Z
 generator: Upptime <https://github.com/upptime/upptime>
